@@ -1,6 +1,6 @@
 # Tesis de Maestría en Finanzas - Daniel Chaparro
 
-Este reposito presenta el código y los datos utilizados en el trabajo titulado "Máquinas de Soporte Vectorial y aprendizaje no supervisado en la predicción de la tasa de cambio USD/COP", Documento para optar por el título de Magíster en Finanzas.
+Este reposito presenta el código y los datos utilizados en el trabajo titulado "Máquinas de Soporte Vectorial y aprendizaje no supervisado en la predicción de la tasa de cambio USD/COP", documento para optar por el título de Magíster en Finanzas.
 
 # Contenido en Python
 
